@@ -3,7 +3,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+// hej Rasmus
 public class Administration extends DatabaseCon {
 
 	public String[] login() throws SQLException {
