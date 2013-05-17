@@ -55,7 +55,7 @@ public class GUI {
 	private JTextField txtEMail;
 	private JTextField txtMobil;
 	private JTextField txtHjemNr;
-	private String table = "";
+	private String table = "teacher";
 
 	// Skema
 	private JTextField hæst;
